@@ -1,4 +1,4 @@
-### Peak calling (and quality control)
+### Peak calling
 
 import os
 import pandas as pd
